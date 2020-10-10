@@ -25,10 +25,11 @@ I ocassionally post on [Quora](https://www.quora.com/profile/Shubham-Gautam-278)
 - Your sincerely on [LinkedIn](https://www.linkedin.com/in/shubham-gautam-433019191/)
 - And of course GitHub you're already on (Recursion).
 
+<!--
 ## Some projects 
 
 - Community website - [Techknights](https://www.techknightsrtu.com/).
 - My blog - [Shubham](https://ishubham21.github.io/myblog/).
 - Restaurant website - [Template](https://ishubham21.github.io/Restro_Template/).
-- Portfolio website - [Shubham](https://ishubham21.github.io/Shubham/). 
+- Portfolio website - [Shubham](https://ishubham21.github.io/Shubham/). -->
 
