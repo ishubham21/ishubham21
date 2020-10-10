@@ -5,6 +5,7 @@
 ## About me
 
 I'm Shubham Gautam. I'm a Web-Developer and a Content-Writer, I regularly post my write-ups on [My Blog](https://ishubham21.github.io/myblog/). 
+
 Ajmer is :heart:. Tech-enthusiast and :coffee: lover. 
 
 I ocassionally post on [Quora](https://www.quora.com/profile/Shubham-Gautam-278). (P.S. I've recently crossed 185K+ views)  
@@ -12,12 +13,13 @@ I ocassionally post on [Quora](https://www.quora.com/profile/Shubham-Gautam-278)
 
 ## Things I am passionate about
 
-- Android :robot:
+- Web :robot:
 - Open source :octocat:
+- New Experiences :😄:
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
+- Your future bud to discuss Web related things and tech in general on [Instagram](https://instagram.com/imxshubham).
 - Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
 - And of course GitHub you're already on (Recursion).
