@@ -4,7 +4,8 @@
 
 ## About me
 
-I'm Shubham Gautam. I'm a Web-Developer and a Content-Writer, I regularly post my write-ups on [My Blog](https://github.com/ishubham21/myblog). Ajmer is :heart:. Tech-enthusiast and :coffee: lover. 
+I'm Shubham Gautam. I'm a Web-Developer and a Content-Writer, I regularly post my write-ups on [My Blog](https://ishubham21.github.io/myblog/). 
+Ajmer is :heart:. Tech-enthusiast and :coffee: lover. 
 
 I ocassionally post on [Quora](https://www.quora.com/profile/Shubham-Gautam-278). (P.S. I've recently crossed 185K+ views)  
 
