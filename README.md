@@ -19,23 +19,16 @@ I ocassionally post on [Quora](https://www.quora.com/profile/Shubham-Gautam-278)
 
 ## Get in touch :coffee:
 
-- Your future bud to discuss Web related things and tech in general on [Instagram](https://instagram.com/imxshubham).
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
+- Your bud to discuss Web related things and tech in general on [Instagram](https://instagram.com/imxshubham).
+- Your personal philosopher :stuck_out_tongue: on [Quora](https://www.quora.com/profile/Shubham-Gautam-278).
+- Your story-teller on [My Blog](https://ishubham21.github.io/myblog/)
+- Your sincerely on [LinkedIn](https://www.linkedin.com/in/shubham-gautam-433019191/)
 - And of course GitHub you're already on (Recursion).
 
+## Some projects 
 
-<!--
-**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Community website - [Techknights](https://www.techknightsrtu.com/).
+- My blog - [Shubham](https://ishubham21.github.io/myblog/).
+- Restaurant website - [Template](https://ishubham21.github.io/Restro_Template/).
+- Portfolio website - [Shubham](https://ishubham21.github.io/Shubham/). 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
