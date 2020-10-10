@@ -2,16 +2,11 @@
 
 <img src="https://github.com/ishubham21/ishubham21/blob/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
 ## About me
 
-I'm Sagar Viradiya. An Android Engineer at [BookMyShow](https://in.bookmyshow.com) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+I'm Shubham Gautam. I'm a Web-Developer and a Content-Writer, I regularly post my write-ups on [My Blog](https://github.com/ishubham21/myblog). Ajmer is :heart:. Tech-enthusiast and :coffee: lover. 
 
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
+I ocassionally post on [Quora](https://www.quora.com/profile/Shubham-Gautam-278). (P.S. I've recently crossed 185K+ views)  
 
 
 ## Things I am passionate about
