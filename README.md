@@ -4,11 +4,13 @@
 
 ## About me
 
-I'm Shubham Gautam. I'm an engineering undergrad and a programmer with hands-on practice on C, C++ and JavaScript. I work as a Web-Developer and a Content-Writer and I regularly post my write-ups on [My Blog](https://ishubham21.github.io/myblog/). 
+I'm Shubham Gautam. I'm an engineering undergrad and a programmer with hands-on practice on C, C++ and JavaScript. 
+
+I work as a Web-Developer and I love creative writing. I regularly post my write-ups on [My Blog](https://ishubham21.github.io/myblog/). 
 
 Ajmer is :heart:. Tech-enthusiast and :coffee: lover. 
 
-I ocassionally post on [Quora](https://www.quora.com/profile/Shubham-Gautam-278). (P.S. I've recently crossed 185K+ views)  
+I ocassionally post on [Quora](https://www.quora.com/profile/Shubham-Gautam-278). (P.S. I've recently crossed 185K views)  
 
 
 ## Things I am passionate about
