@@ -8,7 +8,7 @@ I'm Shubham Gautam. I'm an engineering undergrad and a programmer with hands-on 
 
 I work as a Web-Developer and I love creative writing. I regularly post my write-ups on [My Blog](https://ishubham21.github.io/myblog/). 
 
-I ocassionally post on [Quora](https://www.quora.com/profile/Shubham-Gautam-278). (P.S. I've recently crossed 185K views).
+I ocassionally post on [Quora](https://www.quora.com/profile/Shubham-Gautam-278) too. (P.S. I've recently crossed 185K views).
 
 Ajmer is :heart:. Tech-enthusiast and :coffee: lover. 
 
