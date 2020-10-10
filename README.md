@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm Shubham Gautam. I'm a Web-Developer and a Content-Writer, I regularly post my write-ups on [My Blog](https://ishubham21.github.io/myblog/). 
+I'm Shubham Gautam. I'm an engineering undergrad and a programmer with hands-on practice on C, C++ and JavaScript. I'm work as a Web-Developer and a Content-Writer, I regularly post my write-ups on [My Blog](https://ishubham21.github.io/myblog/). 
 
 Ajmer is :heart:. Tech-enthusiast and :coffee: lover. 
 
