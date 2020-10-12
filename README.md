@@ -34,3 +34,7 @@ Ajmer is :heart:. Tech-enthusiast and :coffee: lover.
 - Restaurant website - [Template](https://ishubham21.github.io/Restro_Template/).
 - Portfolio website - [Shubham](https://ishubham21.github.io/Shubham/). -->
 
+## GitHub Stats
+![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=ishubham21&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
+
+
