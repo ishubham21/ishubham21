@@ -37,6 +37,6 @@ Ajmer is :heart:. Tech-enthusiast and :coffee: lover.
 ## GitHub Stats
 ![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=ishubham21&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
 
-(https://komarev.com/ghpvc/?username=ishubham21&color=red)
+[Ahan!](https://komarev.com/ghpvc/?username=ishubham21&color=red)
 
 
