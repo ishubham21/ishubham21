@@ -40,9 +40,9 @@ Ajmer is :heart:. Tech-enthusiast and :coffee: lover.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishubham21&layout=compact&hide=html" alt="Languages used by Shubham" />
 </p>
 
-![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=ishubham21&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
+![Shubham's Github Stats]()
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ishubham21&show_icons=true" alt="ishubham21" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ishubham21&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt="ishubham21" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ishubham21" alt="ishubham21" /> </p>
 
