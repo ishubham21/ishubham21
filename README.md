@@ -20,9 +20,9 @@ Ajmer is :heart:. Tech-enthusiast and :coffee: lover.
 
 ## Get in touch :coffee:
 
-- Your bud to discuss Web related things and tech in general on [Instagram](https://instagram.com/imxshubham).
+- Your bud to discuss Web related things and tech in general on [Tech Blog](https://ishubham21.github.io/techblog/).
 - Your personal philosopher :stuck_out_tongue: on [Quora](https://www.quora.com/profile/Shubham-Gautam-278).
-- Your story-teller on [My Blog](https://ishubham21.github.io/myblog/)
+- Your story-teller on [Creative Blog](https://ishubham21.github.io/myblog/)
 - Your sincerely on [LinkedIn](https://www.linkedin.com/in/shubham-gautam-433019191/)
 - And of course GitHub you're already on (Recursion).
 
