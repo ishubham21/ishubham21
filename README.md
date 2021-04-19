@@ -1,6 +1,4 @@
-# Hey there :wave:
-
-<img src="https://github.com/ishubham21/ishubham21/blob/master/resources/bannerS.png" alt="Hello world">
+<img src="https://github.com/ishubham21/ishubham21/blob/master/resources/banner.png" alt="Hello world">
 
 ## About me
 
