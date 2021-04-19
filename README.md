@@ -34,6 +34,8 @@ Ajmer is :heart:. Tech-enthusiast and :coffee: lover.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying REST APIs](https://ishubham21.medium.com/simplifying-rest-apis-255545cdc559?source=rss-4853c79cce63------2)
+- [How to install cURL on windows?](https://ishubham21.medium.com/how-to-install-curl-on-windows-bafd96c70ca6?source=rss-4853c79cce63------2)
 <!-- BLOG-POST-LIST:END -->
 
 
