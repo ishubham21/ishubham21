@@ -8,12 +8,12 @@ const aboutMe = {
    location: "Ajmer" || "Kota", 
    
    technologies: {
-        languages: ["JavaScript", "Python", "C", "C++"]
+        languages: ["JavaScript", "Python", "C", "C++"],
         frontEnd: ["HTML", "CSS", "SCSS", "JavaScript", "Tailwind", "Materialize", "Bulma", "Bootstrap", "Material Design"],
         backEnd: {
-           js: ["NodeJS", "ExpressJS"],
+           js: ["NodeJS", "ExpressJS"]
         },
-        databases: ["MongoDB", "Firebase"],
+        databases: ["MongoDB", "Firebase"]
    },
    
    passions: [
@@ -26,7 +26,7 @@ const aboutMe = {
    positionsHeld:{
         mentor: ["GirlScipt Summer of Code", "DSC-IIIT Kalyani Winter of Code", "MLH TechTogether Seattle", "MLH QWER Hacks"],
         leader: ["Postman Student Leader", "Event Lead at Startup-Genix", "Techknights Season of Code"],
-        webDeveloper: ["Script Foundation", "Techknights", "Isols Group Pvt. Ltd."],
+        webDeveloper: ["Script Foundation", "Techknights", "Isols Group Pvt. Ltd."]
    },
    funFacts: ["I've been a delegate at Harvard University Conference (Asia)", "I've recently crossed 200K views on Quora"]
 
