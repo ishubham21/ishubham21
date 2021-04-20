@@ -35,10 +35,6 @@ const aboutMe = {
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying REST APIs](https://ishubham21.medium.com/simplifying-rest-apis-255545cdc559?source=rss-4853c79cce63------2)
-- [How to install cURL on windows?](https://ishubham21.medium.com/how-to-install-curl-on-windows-bafd96c70ca6?source=rss-4853c79cce63------2)
-- [How to perform Reverse Geocoding in the browser?](https://ishubham21.medium.com/how-to-perform-reverse-geocoding-in-the-browser-7b8317f9f15c?source=rss-4853c79cce63------2)
-- [How to get location coordinates from the browser?](https://ishubham21.medium.com/how-to-get-location-coordinates-from-the-browser-cee085eeca95?source=rss-4853c79cce63------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Get in touch :coffee:
