@@ -2,26 +2,41 @@
 
 ## About me
 
-I'm Shubham Gautam. I'm an engineering undergrad and a programmer with hands-on practice on C, C++ and JavaScript. 
+```javascript
+const aboutMe = {
 
-I work as a Web-Developer and I love creative writing. I regularly post my write-ups on [My Blog](https://ishubham21.github.io/myblog/). 
+   pronouns: "he" || "him",
+   bio: "I'm an engineering undergraduate student and a programmer based in India. My expertise lies in the web development domain and I love creative writing.",
+   location: "Ajmer" || "Kota", 
+   
+   technologies: {
+        languages: ["JavaScript", "Python", "C", "C++"]
+        frontEnd: ["HTML", "CSS", "SCSS", "JavaScript", "Tailwind", "Materialize", "Bulma", "Bootstrap", "Material Design"],
+        backEnd: {
+           js: ["NodeJS", "ExpressJS"],
+        },
+        databases: ["MongoDB", "Firebase"],
+   },
+   
+   passions: [
+       "Web Development" || "Node" || "React" || "Vue",
+       "Machine Learning",
+       "Communities",
+       "Open-Source"
+   ]
 
-I ocassionally post on [Quora](https://www.quora.com/profile/Shubham-Gautam-278) too. (P.S. I've recently crossed 185K views).
+   positionsHeld:{
+        mentor: ["GirlScipt Summer of Code", "DSC-IIIT Kalyani Winter of Code", "MLH TechTogether Seattle", "MLH QWER Hacks"],
+        lead: ["Postman Student Leader", "Event Lead at Startup-Genix", "Techknights Season of Code"]
+        webDeveloper: ["Script Foundation", "Techknights", "Isols Group Pvt. Ltd."],
+   },
+   funFacts: ["I've been a delegate at Harvard University Conference (Asia Region)", "I've recently crossed 200,000 views on Quora"]
 
-Ajmer is :heart:. Tech-enthusiast and :coffee: lover. 
-
-## Things I am passionate about
-
-- Web :robot:
-- Open source :octocat:
-- New Experiences 😄
+};
+```
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying REST APIs](https://ishubham21.medium.com/simplifying-rest-apis-255545cdc559?source=rss-4853c79cce63------2)
-- [How to install cURL on windows?](https://ishubham21.medium.com/how-to-install-curl-on-windows-bafd96c70ca6?source=rss-4853c79cce63------2)
-- [How to perform Reverse Geocoding in the browser?](https://ishubham21.medium.com/how-to-perform-reverse-geocoding-in-the-browser-7b8317f9f15c?source=rss-4853c79cce63------2)
-- [How to get location coordinates from the browser?](https://ishubham21.medium.com/how-to-get-location-coordinates-from-the-browser-cee085eeca95?source=rss-4853c79cce63------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Get in touch :coffee:
