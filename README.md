@@ -35,18 +35,14 @@ const aboutMe = {
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying REST APIs](https://ishubham21.medium.com/simplifying-rest-apis-255545cdc559?source=rss-4853c79cce63------2)
-- [How to install cURL on windows?](https://ishubham21.medium.com/how-to-install-curl-on-windows-bafd96c70ca6?source=rss-4853c79cce63------2)
-- [How to perform Reverse Geocoding in the browser?](https://ishubham21.medium.com/how-to-perform-reverse-geocoding-in-the-browser-7b8317f9f15c?source=rss-4853c79cce63------2)
-- [How to get location coordinates from the browser?](https://ishubham21.medium.com/how-to-get-location-coordinates-from-the-browser-cee085eeca95?source=rss-4853c79cce63------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Get in touch :coffee:
 
-- Your bud to discuss Web related things and tech in general on [Tech Blog](https://ishubham21.github.io/techblog/).
-- Your personal philosopher :stuck_out_tongue: on [Quora](https://www.quora.com/profile/Shubham-Gautam-278).
-- Your story-teller on [Creative Blog](https://ishubham21.github.io/myblog/)
 - Your sincerely on [LinkedIn](https://www.linkedin.com/in/shubham-gautam-433019191/)
+- Your personal philosopher :stuck_out_tongue: on [Quora](https://www.quora.com/profile/Shubham-Gautam-278)
+- Your bud to discuss Web related things and tech in general on [Tech Blog](https://ishubham21.github.io/techblog/)
+- Your story-teller on [Creative Blog](https://ishubham21.github.io/myblog/)
 - And of course GitHub you're already on (Recursion).
 
 ## GitHub Stats
