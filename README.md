@@ -4,7 +4,7 @@
 const aboutMe = {
 
    pronouns: "he" || "him",
-   bio: "I'm an engineering undergrad based in India. My expertise lies in the web development domain and I love creative writing.",
+   bio: "I'm an engineering undergrad student. My expertise lies in the web development domain and I love creative writing.",
    location: "Ajmer" || "Kota", 
    
    technologies: {
