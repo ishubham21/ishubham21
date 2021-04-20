@@ -30,10 +30,8 @@ Ajmer is :heart:. Tech-enthusiast and :coffee: lover.
 
 ## GitHub Stats
 
-<a href="https://github.com/AVS1508">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishubham21&theme=buefy&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishubham21&theme=buefy&layout=compact" />
-</a>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ishubham21&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt="ishubham21" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishubham21&theme=buefy&layout=compact" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ishubham21" alt="ishubham21" /> </p>
 
