@@ -1,12 +1,10 @@
 <img src="https://github.com/ishubham21/ishubham21/blob/master/resources/banner.png" alt="Hello world">
 
-## About me
-
 ```javascript
 const aboutMe = {
 
    pronouns: "he" || "him",
-   bio: "I'm an engineering undergraduate student and a programmer based in India. My expertise lies in the web development domain and I love creative writing.",
+   bio: "I'm an engineering undergrad based in India. My expertise lies in the web development domain and I love creative writing.",
    location: "Ajmer" || "Kota", 
    
    technologies: {
