@@ -17,7 +17,7 @@ const aboutMe = {
    },
    
    passions: [
-       "Web Development" || "Node" || "React" || "Vue",
+       "Web Development",
        "Machine Learning",
        "Communities",
        "Open-Source"
