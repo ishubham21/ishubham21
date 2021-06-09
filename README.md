@@ -24,12 +24,17 @@ const aboutMe = {
    ],
 
    positionsHeld:{
+        technicalWriter: ["InterviewBit"],
         mentor: ["GirlScipt Summer of Code", "DSC-IIIT Kalyani Winter of Code", "MLH TechTogether Seattle", "MLH QWER Hacks"],
         leader: ["Postman Student Leader", "Event Lead at Startup-Genix", "Techknights Season of Code"],
         webDeveloper: ["Script Foundation", "Techknights", "Isols Group Pvt. Ltd."]
    },
-   
-   funFacts: ["I've been a delegate at Harvard University Conference (Asia)", "I've recently crossed 200K views on Quora"]
+
+   funFacts: [
+               "My project infinity-skncure is one of the top 50 global projects selected by Google"
+               "I've been a delegate at Harvard University Conference (Asia)", 
+               "I've recently crossed 200K views on Quora",
+               "One of my extensions has crossed 900 installations on Visual Studio Marketplace"]
 
 };
 ```
