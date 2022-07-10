@@ -6,7 +6,7 @@ I've good experience in building full-stack as-well-as front-end applications. I
 
 I've built multiple mid-level projects, one such project called [Infinity SknCure](https://github.com/ishubham21/infinity-skncure-angular) was built under 'Google Solution Challenge' amongst the Global Top 50. A major chunk of this project consists of Angular, and Firebase.
 
-I've also been an MLH Fellow (Summer' 21) and I love developing software solutions and tackling challenges with new technologies. I also have experience in Technical Content Writing as I have been a Technical Content Writer at InterviewBit.
+I've also been an [MLH Fellow](https://fellowship.mlh.io) (Summer' 21) and I love developing software solutions and tackling challenges with new technologies. I also have experience in Technical Content Writing as I have been a Technical Content Writer at [InterviewBit](https://www.scaler.com/topics/).
 
 I have a [portfolio website](https://meshubham.live) that you should check out! In it I have shared about my work experience, projects, community work, and much mooore! 
 
