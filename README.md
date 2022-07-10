@@ -1,45 +1,17 @@
 <img src="https://github.com/ishubham21/ishubham21/blob/master/resources/banner.png" alt="Hello world">
 
-```javascript
-const aboutMe = {
+I'm Shubham Gautam. I'm an engineering undergrad and a programmer. I work as a Full-Stack Web Developer with experience in handling JavaScript, Node, React and Angular coding, designs and extensions.
 
-   pronouns: "he" || "him",
-   bio: "I'm an engineering undergrad student. My expertise lies in the web development domain and I love creative writing.",
-   location: "Ajmer" || "Kota", 
-   
-   technologies: {
-        languages: ["JavaScript", "Python", "C", "C++"],
-        frontEnd: ["HTML", "CSS", "SCSS", "JavaScript", "Tailwind", "Materialize", "Bulma", "Bootstrap", "Material Design"],
-        backEnd: {
-           js: ["NodeJS", "ExpressJS"]
-        },
-        databases: ["MongoDB", "Firebase"]
-   },
-   
-   passions: [
-       "Web Development",
-       "Machine Learning",
-       "Communities",
-       "Open-Source"
-   ],
+I've good experience in building full-stack as-well-as front-end applications. I love building beautiful yet faster front-facing interfaces. I love to talk about React, front-end optimisation, web tooling & automation, offline web applications, build tools, testing and much more.
 
-   positionsHeld:{
-        technicalWriter: ["InterviewBit"],
-        mentor: ["GirlScipt Summer of Code", "DSC-IIIT Kalyani Winter of Code", "MLH TechTogether Seattle", "MLH QWER Hacks"],
-        leader: ["Postman Student Leader", "Event Lead at Startup-Genix", "Techknights Season of Code"],
-        webDeveloper: ["Script Foundation", "Techknights", "Isols Group Pvt. Ltd."]
-   },
+I've built multiple mid-level projects, one such project called [Infinity SknCure](https://github.com/ishubham21/infinity-skncure-angular) was built under 'Google Solution Challenge' amongst the Global Top 50. A major chunk of this project consists of Angular, and Firebase.
 
-   funFacts: [
-               "My project infinity-skncure is one of the top 50 global projects selected by Google"
-               "I've been a delegate at Harvard University Conference (Asia)", 
-               "I've recently crossed 200K views on Quora",
-               "One of my extensions has crossed 900 installations on Visual Studio Marketplace"]
+I've also been an MLH Fellow (Summer' 21) and I love developing software solutions and tackling challenges with new technologies. I also have experience in Technical Content Writing as I have been a Technical Content Writer at InterviewBit.
 
-};
-```
+I have a [portfolio website](https://meshubham.live) that you should check out! In it I have shared about my work experience, projects, community work, and much mooore! 
 
 ## Latest Blog Posts
+Oh, did I mention that I love writing as well!?  
 <!-- BLOG-POST-LIST:START -->
 - [Simplifying REST APIs](https://ishubham21.medium.com/simplifying-rest-apis-255545cdc559?source=rss-4853c79cce63------2)
 - [How to install cURL on windows?](https://ishubham21.medium.com/how-to-install-curl-on-windows-bafd96c70ca6?source=rss-4853c79cce63------2)
@@ -47,23 +19,28 @@ const aboutMe = {
 - [How to get location coordinates from the browser?](https://ishubham21.medium.com/how-to-get-location-coordinates-from-the-browser-cee085eeca95?source=rss-4853c79cce63------2)
 <!-- BLOG-POST-LIST:END -->
 
-## Get in touch :coffee:
+P.S. - I am considering to create a dedicated blog website for all such posts.
 
-- Your sincerely on [LinkedIn](https://www.linkedin.com/in/shubham-gautam-433019191/)
-- Your personal philosopher :stuck_out_tongue: on [Quora](https://www.quora.com/profile/Shubham-Gautam-278)
-- Your bud to discuss Web related things and tech in general on [Tech Blog](https://ishubham21.github.io/techblog/)
-- Your story-teller on [Creative Blog](https://ishubham21.github.io/myblog/)
-- And of course GitHub you're already on (Recursion).
+## Connect with me
+I love jokes and books. Also pizzas. If you would like to discuss these things, you can get in touch with me - 
 
-## GitHub Stats
-
-<a href="https://github.com/ishubham21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishubham21&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishubham21&theme=dark&layout=compact" />
-</a>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ishubham21" alt="ishubham21" /> </p>
-
-
-
-
+<p align="center">
+  <a href= "https://github.com/ishubham21/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/ishubham21/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
+  <a href= "https://twitter.com/ishubham6">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
+  </a>
+  <a href="https://resume.meshubham.live">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/parse-from-clipboard.png"/>
+  </a>
+  <a href="mailto:ishubham2101@gmail.com">
+    <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
+  </a>
+  <a href="https://medium.com/@ishubham21">
+    <img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/>
+  </a>
+</p>
