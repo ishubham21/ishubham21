@@ -2,7 +2,6 @@
 
 Hey, there! Check out my [personal website](https://shubhamgautam.in)
 
-## Connect with me
 I love jokes and books. Also pizzas. If you would like to discuss these things, you can get in touch with me - 
 
 <p align="center">
