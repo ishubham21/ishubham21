@@ -1,4 +1,6 @@
-Check out my [personal website](https://shubhamgautam.in)
+<img src="https://github.com/ishubham21/ishubham21/blob/master/resources/banner.png" alt="Hello world">
+
+Hey, there! Check out my [personal website](https://shubhamgautam.in)
 
 ## Connect with me
 I love jokes and books. Also pizzas. If you would like to discuss these things, you can get in touch with me - 
